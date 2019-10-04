@@ -1,0 +1,17 @@
+header {
+    lighting-color: chartreuse;
+    text-align-last: auto;
+    background-color: darkslategrey;
+}
+/* style the navigator bar */
+.topnav {
+    float: center;
+    display: contents;
+    color: lime;
+    text-align: center;
+}
+.home{
+    float: center;
+    color: darkgrey;
+    background-color: aqua;
+}
